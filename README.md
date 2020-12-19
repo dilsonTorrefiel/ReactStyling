@@ -1,2 +1,2 @@
-# ReactStyling
+# ReactJs
 Created with CodeSandbox
